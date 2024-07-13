@@ -58,10 +58,8 @@ Le dossier `/workspace` dans le conteneur est un dossier partagé avec votre sys
 ## Fichiers
 
 - `BuildRunAndOpenContainer.bat` : Script pour construire et ouvrir le conteneur.
-- `create_42env.bat` : Script pour construire le conteneur Docker.
 - `Dockerfile` : Fichier de configuration Docker pour créer l'image.
 - `stop_container.bat` : Script pour arrêter le conteneur.
-- `open_Container_Zsh.bat` : Script pour ouvrir un terminal zsh dans le conteneur.
 
 ## Remarques
 
