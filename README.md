@@ -17,7 +17,7 @@ Utiliser un conteneur Docker est plus avantageux qu'une machine virtuelle (VM) c
 
 1. Installez Docker Desktop depuis [le site officiel](https://www.docker.com/products/docker-desktop), créez un compte Docker et connectez-vous via Docker Desktop.
 
-2. Redémarrez et reconnectez-vous à Docker Desktop.
+2. Redémarrez votre PC et reconnectez-vous à Docker Desktop.
 
 3. Clonez ce projet sur votre machine :
 
