@@ -1,4 +1,4 @@
-# Projet Piscine42 Environment
+# Piscine42 Environment
 
 Ce projet vous permet de créer un environnement Linux léger simulant celui du concours de l'école 42. Il inclut uniquement les outils de base comme le terminal Ubuntu, vim, nano, zsh et gcc. Ce guide est destiné aux utilisateurs Windows.
 
